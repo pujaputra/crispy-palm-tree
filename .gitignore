@@ -16,3 +16,18 @@ bin-release/
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
+
+packaging process.
+# End users may safely ignore this file. It has no relevance to other systems.
+---
+status:       PUBLISHED
+technologies: [Android]
+categories:   [App Bundle]
+languages:    [Java]
+solutions:    [Mobile]
+
+github:       android/app-bundle-samples
+
+level:        ADVANCED
+
+license: apache2
